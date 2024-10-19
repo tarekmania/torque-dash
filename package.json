@@ -36,7 +36,6 @@
     "shortid": "^2.2.14"
   },
   "engines": {
-    "node": "18.x",
-    "npm": "8.x"
+    "node": "16.x"
   }
 }
